@@ -31,6 +31,9 @@ const EvaluationDoneEventType = "sh.keptn.events.evaluation-done"
 // ProblemOpenEventType is a CloudEvent type to inform about an open problem
 const ProblemOpenEventType = "sh.keptn.event.problem.open"
 
+// ProblemOpenEventType is a CloudEvent type to inform about a close problem
+const ProblemCloseEventType = "sh.keptn.event.problem.close"
+
 // ProblemEventType is a CloudEvent type to inform about a problem
 const ProblemEventType = "sh.keptn.events.problem"
 
